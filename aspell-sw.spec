@@ -1,5 +1,5 @@
 Summary:	Swahili dictionary for aspell
-Summary(pl.UTF-8):   Słownik suahili dla aspella
+Summary(pl.UTF-8):	Słownik suahili dla aspella
 Name:		aspell-sw
 Version:	0.50
 %define	subv	0
