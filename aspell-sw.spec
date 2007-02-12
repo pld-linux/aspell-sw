@@ -1,5 +1,5 @@
 Summary:	Swahili dictionary for aspell
-Summary(pl):	S≥ownik suahili dla aspella
+Summary(pl.UTF-8):   S≈Çownik suahili dla aspella
 Name:		aspell-sw
 Version:	0.50
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Swahili dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik suahili (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik suahili (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
